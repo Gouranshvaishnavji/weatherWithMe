@@ -31,8 +31,10 @@ A sleek, animated weather web app that displays real-time weather data with imme
 ## 🚀 Setup Instructions
 
 ### 1. Clone the repo
-```bash
 git clone https://github.com/your-username/weather-widget-app.git
 cd weather-widget-app
-------------
-(video)[https://drive.google.com/file/d/1qvSla0gbQsl_Qwi_j8gZ4x6AtlYMJwZl/view?usp=sharing]
+
+
+###
+
+[video](https://drive.google.com/file/d/1qvSla0gbQsl_Qwi_j8gZ4x6AtlYMJwZl/view?usp=sharing)
